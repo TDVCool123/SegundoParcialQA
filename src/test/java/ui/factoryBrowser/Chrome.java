@@ -9,7 +9,7 @@ import java.time.Duration;
 public class Chrome implements IBrowser{
     @Override
     public WebDriver create() {
-        System.setProperty("webdriver.chrome.driver","src/test/resources/chrome/chromedriver-win64/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","src/test/resources/chromedriver.exe");
         WebDriver chrome = new ChromeDriver();
         chrome.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
         chrome.manage().window().maximize();
