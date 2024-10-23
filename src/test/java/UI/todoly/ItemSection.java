@@ -1,9 +1,9 @@
 package UI.todoly;
 
-import optimized.controls.Button;
-import optimized.controls.Icon;
-import optimized.controls.Label;
-import optimized.controls.TextBox;
+import UI.controls.Button;
+import UI.controls.Icon;
+import UI.controls.Label;
+import UI.controls.TextBox;
 import org.openqa.selenium.By;
 
 public class ItemSection {

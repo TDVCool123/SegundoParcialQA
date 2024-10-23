@@ -1,6 +1,6 @@
 package UI.session;
 
-import optimized.factoryBrowser.FactoryBrowser;
+import UI.factoryBrowser.FactoryBrowser;
 import org.openqa.selenium.WebDriver;
 
 public class Session {

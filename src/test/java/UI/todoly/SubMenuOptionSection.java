@@ -1,6 +1,6 @@
 package UI.todoly;
 
-import optimized.controls.Button;
+import UI.controls.Button;
 import org.openqa.selenium.By;
 
 public class SubMenuOptionSection {

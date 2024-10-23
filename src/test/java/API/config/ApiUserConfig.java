@@ -2,8 +2,8 @@ package API.config;
 
 public class ApiUserConfig {
     public static String host="https://todo.ly";
-            public static String user="lol@gmail.com";
-    public static String pwd="123456";
+    public static String user="luis_segundo_parcial@gmail.com";
+    public static String pwd="12345678";
 
     public static final String CREATE_USER=host+"/api/user.json";
     public static final String READ_USER=host+"/api/user.json";

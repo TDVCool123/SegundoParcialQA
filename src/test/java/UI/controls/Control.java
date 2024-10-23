@@ -1,8 +1,9 @@
 package UI.controls;
 
-import optimized.session.Session;
+import UI.session.Session;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+
 
 public class Control {
     protected By locator;

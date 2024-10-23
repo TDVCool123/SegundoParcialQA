@@ -1,7 +1,7 @@
 package UI.todoly;
 
-import optimized.controls.Button;
-import optimized.controls.TextBox;
+import UI.controls.Button;
+import UI.controls.TextBox;
 import org.openqa.selenium.By;
 
 public class LoginSection {
